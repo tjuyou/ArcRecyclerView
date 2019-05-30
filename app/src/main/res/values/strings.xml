@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArcRecyclerView</string>
+    <string name="test1">item1</string>
+    <string name="test2">item2</string>
+    <string name="test3">item3</string>
+    <string name="test4">item4</string>
+    <string name="test5">item5</string>
+</resources>
